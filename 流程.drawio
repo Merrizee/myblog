@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T10:50:33.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="tVs3m9DvwXJeaEkRFI9b" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:53:30.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="bR-6E7O3afHNUFB-a85U" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
     <mxGraphModel dx="1295" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -20,12 +20,12 @@
           <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-18" value="&lt;h3&gt;填充用户信息过滤器&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=1;" parent="4YB0RGbdnBPLQyk0ui07-12" vertex="1">
-          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="508" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="af20FX3lcWvI6VRSCMfV-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#C73500;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=none;startFill=0;endArrow=block;endFill=1;fillColor=#fa6800;dashed=1;" edge="1" parent="4YB0RGbdnBPLQyk0ui07-12" source="4YB0RGbdnBPLQyk0ui07-26" target="4YB0RGbdnBPLQyk0ui07-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-100" value="4." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-99">
+        <mxCell id="af20FX3lcWvI6VRSCMfV-100" value="&lt;h4 style=&quot;font-size: 14px;&quot;&gt;4.认证通过开始授权校验&lt;/h4&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelPosition=right;verticalLabelPosition=middle;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-99">
           <mxGeometry x="-0.1116" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -34,7 +34,7 @@
           <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-27" value="&lt;h3&gt;授权过滤器&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=1;" parent="4YB0RGbdnBPLQyk0ui07-12" vertex="1">
-          <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-28" value="&lt;h3&gt;跨域处理过滤器&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=1;" parent="4YB0RGbdnBPLQyk0ui07-12" vertex="1">
           <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
@@ -180,7 +180,7 @@
             <mxPoint x="68" y="-62" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#C73500;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;fillColor=#fa6800;elbow=vertical;dashed=1;" edge="1" parent="4YB0RGbdnBPLQyk0ui07-11" source="4YB0RGbdnBPLQyk0ui07-26" target="4YB0RGbdnBPLQyk0ui07-32">
+        <mxCell id="af20FX3lcWvI6VRSCMfV-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#C73500;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;fillColor=#fa6800;elbow=vertical;dashed=1;startArrow=none;startFill=0;" edge="1" parent="4YB0RGbdnBPLQyk0ui07-11" source="4YB0RGbdnBPLQyk0ui07-26" target="4YB0RGbdnBPLQyk0ui07-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="355" />
@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="af20FX3lcWvI6VRSCMfV-93" value="&lt;h4 style=&quot;line-height: 100%;&quot;&gt;2.通过token调用/me查用户信息&lt;/h4&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=none;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-92">
           <mxGeometry x="0.1753" y="-1" relative="1" as="geometry">
-            <mxPoint x="-41" y="61" as="offset" />
+            <mxPoint x="-41" y="69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;奔驰SSO平台&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
