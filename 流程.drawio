@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T11:20:16.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ipRFjZ-gi7wKNH1PrFk5" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T11:28:58.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="xS87J85n8afr7uPbCP1T" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
-    <mxGraphModel dx="1573" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="" 说明="只有第一次登录的时候需要3、4步骤" id="af20FX3lcWvI6VRSCMfV-125">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+            <mxGeometry x="300" y="10" width="1120" height="330" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-11" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;登录认证授权流程&lt;/font&gt;&lt;/h2&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;labelBackgroundColor=default;spacingTop=0;spacing=0;spacingBottom=0;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="70" y="370" width="1480" height="660" as="geometry" />
         </mxCell>
