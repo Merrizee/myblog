@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T09:06:41.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="5heieO7b4bmZVcaWaHXz" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T09:07:09.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="XGrlodUPurNayG50mcj4" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
     <mxGraphModel dx="1295" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="af20FX3lcWvI6VRSCMfV-74" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="af20FX3lcWvI6VRSCMfV-74" target="4YB0RGbdnBPLQyk0ui07-62">
+        <mxCell id="af20FX3lcWvI6VRSCMfV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="af20FX3lcWvI6VRSCMfV-74" target="4YB0RGbdnBPLQyk0ui07-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="af20FX3lcWvI6VRSCMfV-76" value="&lt;h1&gt;登录&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-75">
@@ -212,7 +212,7 @@
         <mxCell id="af20FX3lcWvI6VRSCMfV-77" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;strokeWidth=2;" edge="1" parent="1" source="af20FX3lcWvI6VRSCMfV-77" target="4YB0RGbdnBPLQyk0ui07-62">
+        <mxCell id="af20FX3lcWvI6VRSCMfV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="af20FX3lcWvI6VRSCMfV-77" target="4YB0RGbdnBPLQyk0ui07-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="af20FX3lcWvI6VRSCMfV-79" value="&lt;h1&gt;访问接口&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-78">
