@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T08:12:37.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="I0L0fTTGE2xWYlIaSD05" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T08:14:49.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="jQeDtVrxM_xQSwxQwJqG" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
     <mxGraphModel dx="1226" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="af20FX3lcWvI6VRSCMfV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4YB0RGbdnBPLQyk0ui07-13" source="4YB0RGbdnBPLQyk0ui07-32" target="af20FX3lcWvI6VRSCMfV-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4YB0RGbdnBPLQyk0ui07-32" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6 style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-size: 12pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;SSOController&lt;/font&gt;&lt;/h6&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,12,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" parent="4YB0RGbdnBPLQyk0ui07-13" vertex="1">
+        <mxCell id="4YB0RGbdnBPLQyk0ui07-32" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;h6 style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;SSOController&lt;/font&gt;&lt;/h6&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.67,0,0,12,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" parent="4YB0RGbdnBPLQyk0ui07-13" vertex="1">
           <mxGeometry x="60" y="80" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="4YB0RGbdnBPLQyk0ui07-13">
-          <mxGeometry x="75" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="af20FX3lcWvI6VRSCMfV-13" value="&lt;h3 style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;LoginService&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="4YB0RGbdnBPLQyk0ui07-13">
+          <mxGeometry x="60" y="220" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-14" value="Lane 3" style="swimlane;startSize=20;html=1;" parent="4YB0RGbdnBPLQyk0ui07-11" vertex="1">
           <mxGeometry x="650" y="20" width="1020" height="540" as="geometry" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="af20FX3lcWvI6VRSCMfV-5" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;返回token并重定向&lt;/font&gt;&lt;/h3&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-3">
+        <mxCell id="af20FX3lcWvI6VRSCMfV-5" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;返回token并重定向/web&lt;/font&gt;&lt;/h3&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-3">
           <mxGeometry x="-0.1873" y="-1" relative="1" as="geometry">
             <mxPoint x="60" y="-65" as="offset" />
           </mxGeometry>
