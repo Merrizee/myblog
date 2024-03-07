@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T11:38:13.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="bf6ZpFbKIkoqs7HjyyeK" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T11:41:06.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WczDZLcxZFMLkz9IJ9VN" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
-    <mxGraphModel dx="1835" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5037" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,6 +315,11 @@
         <mxCell id="af20FX3lcWvI6VRSCMfV-118" value="&lt;h4 style=&quot;font-size: 14px;&quot;&gt;8.接口结果返回&lt;/h4&gt;" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-117">
           <mxGeometry x="-0.1863" y="2" relative="1" as="geometry">
             <mxPoint x="585" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="af20FX3lcWvI6VRSCMfV-127" value="&lt;h4&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;响应&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;接口&lt;/font&gt;&lt;/h4&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;labelBackgroundColor=none;" vertex="1" connectable="0" parent="af20FX3lcWvI6VRSCMfV-117">
+          <mxGeometry x="0.831" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
