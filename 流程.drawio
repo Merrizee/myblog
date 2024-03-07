@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T10:26:55.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="e1LUOsm4vP10j_C0gOl2" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:27:06.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="s4YZ4pdDLFqWR_n0SI3e" version="24.0.2" type="github">
   <diagram name="第 1 页" id="lH8ZwJvUGsAp_MbVumms">
     <mxGraphModel dx="1295" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         </mxCell>
         <mxCell id="af20FX3lcWvI6VRSCMfV-4" value="&lt;h3 style=&quot;font-size: 14px;&quot;&gt;2.选择userId登录&lt;/h3&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];labelPosition=left;verticalLabelPosition=middle;labelBackgroundColor=default;" vertex="1" connectable="0" parent="4YB0RGbdnBPLQyk0ui07-39">
           <mxGeometry x="0.2394" y="3" relative="1" as="geometry">
-            <mxPoint x="44" y="-16" as="offset" />
+            <mxPoint x="50" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YB0RGbdnBPLQyk0ui07-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;奔驰SSO平台&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
